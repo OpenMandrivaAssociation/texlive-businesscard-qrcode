@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Business cards with QR-Code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/businesscard-qrcode
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/businesscard-qrcode
 License:	lgpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/businesscard-qrcode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/businesscard-qrcode.doc.r%{version}.tar.xz
